@@ -49,7 +49,6 @@ async fn main() {
     // 2. cargo run -- <TOKEN_HERE>
 
     // // token for discord api (pass it as cmd arg)
-    // OTc3MzA1Nzk5NzI4NzE3ODk0.G8bMFq.2D5BW3GFe_3c5BvXLzZBkpmNy2ZWKUl-14kWY8
     let args: Vec<String> = env::args().collect();
 
     let query = &args[1];
