@@ -2,7 +2,7 @@
 name = "discord-help-bot"
 authors = ["Mohan Chimata <mohanchimata16@gmail.com>"]
 version = "0.1.0"
-edition = "2021"
+edition = "2022"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
